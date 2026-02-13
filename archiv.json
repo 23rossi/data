@@ -1,0 +1,41 @@
+[{
+    "id": "id62",
+    "title": "iMac 27\" 5K i5 6 x Core 32 GB RAM 256 SSD",
+    "active": 0,
+    "others": {
+      "popis": "Prodám 5K 27\" iMac v dobrém stavu, který byl doteď využíván k mé programátorské činnosti. Jedná se o CTO konfiguraci\n\n- Procesor: 3,2 GHz i5 \n- Paměť: 32 GB RAM\n- Úložiště: 256 GB SSD \n- Grafická karta: AMD Radeon R9 M390 – 2 GB\n- Běží na macOS Sequoia \n\n Odzkoušení je možné a stav viz obrázky.\nDohoda možná – předání v Praze.",
+      "cena": "7500",
+      "folder_path": "images/id62/",
+      "category": "12",
+      "rubrika": "pc",
+      "phone": "608645017",
+      "name": "Honza",
+      "location": "15000",
+      "sleva": 0,
+      "group": 1,
+      "email": "grosenthalg@gmail.com"
+    },
+    "img_urls": [
+      {
+        "filename": "1.jpg",
+        "url": "https://i.ibb.co/PvwPxF7y/1.jpg"
+      },
+      {
+        "filename": "2.jpg",
+        "url": "https://i.ibb.co/wFQmYK6T/2.jpg"
+      },
+      {
+        "filename": "3.jpg",
+        "url": "https://i.ibb.co/Psrx4Fpy/3.jpg"
+      },
+      {
+        "filename": "4.jpg",
+        "url": "https://i.ibb.co/7dbw94Yq/4.jpg"
+      },
+      {
+        "filename": "5.jpg",
+        "url": "https://i.ibb.co/MxVHJRmd/5.jpg"
+      }
+    ]
+  }
+]

@@ -100,46 +100,6 @@
     ]
   },
   {
-    "id": "id62",
-    "title": "iMac 27\" 5K i5 6 x Core 32 GB RAM 256 SSD",
-    "active": 0,
-    "others": {
-      "popis": "Prodám 5K 27\" iMac v dobrém stavu, který byl doteď využíván k mé programátorské činnosti. Jedná se o CTO konfiguraci\n\n- Procesor: 3,2 GHz i5 \n- Paměť: 32 GB RAM\n- Úložiště: 256 GB SSD \n- Grafická karta: AMD Radeon R9 M390 – 2 GB\n- Běží na macOS Sequoia \n\n Odzkoušení je možné a stav viz obrázky.\nDohoda možná – předání v Praze.",
-      "cena": "7500",
-      "folder_path": "images/id62/",
-      "category": "12",
-      "rubrika": "pc",
-      "phone": "608645017",
-      "name": "Honza",
-      "location": "15000",
-      "sleva": 0,
-      "group": 1,
-      "email": "grosenthalg@gmail.com"
-    },
-    "img_urls": [
-      {
-        "filename": "1.jpg",
-        "url": "https://i.ibb.co/PvwPxF7y/1.jpg"
-      },
-      {
-        "filename": "2.jpg",
-        "url": "https://i.ibb.co/wFQmYK6T/2.jpg"
-      },
-      {
-        "filename": "3.jpg",
-        "url": "https://i.ibb.co/Psrx4Fpy/3.jpg"
-      },
-      {
-        "filename": "4.jpg",
-        "url": "https://i.ibb.co/7dbw94Yq/4.jpg"
-      },
-      {
-        "filename": "5.jpg",
-        "url": "https://i.ibb.co/MxVHJRmd/5.jpg"
-      }
-    ]
-  },
-  {
     "id": "id64",
     "title": "MacBook Air 13\" M1 8 GB RAM | 256 SSD | TOP stav",
     "active": 1,
@@ -218,5 +178,56 @@
         "url": "https://i.ibb.co/20Ty8Svv/s7.jpg"
       }
     ]
+  },
+  {
+    "id": "id65",
+    "title": "MacBook PRO 14\" M1 16 GB RAM | 512 SSD | TOP stav",
+    "active": 1,
+    "others": {
+      "popis": "Prodám MacBook PRO 14\" M1 8x CPU 14 GPU v TOP stavu viz foto\nJedná se o model PRO A2442 v provozu od 2023 ve výborném stavu.\n\nMacbook je osazen 16 GB RAM a rychlým 512 GB SSD diskem – dostačující na všechnu běžnou práci a studium.\nRychlý chod díky Apple M1 procesoru \nBaterie je ve výborném stavu s 97% vydrží cca.14hod\n\nPřidám orig. nabíječku\n\nMožnost odzkoušení a předánní v Praze (Florenc, Stodůlky dohody)",
+      "cena": "14900",
+      "folder_path": "images/id65/",
+      "category": "10",
+      "rubrika": "pc",
+      "phone": "608645017",
+      "name": "Jan",
+      "location": "15000",
+      "sleva": 0,
+      "group": 1,
+      "email": "post_rosenthal@post.cz"
+    }
+      {
+        "filename": "1.jpg",
+        "url": "https://i.ibb.co/MDh0708R/1.jpg"
+      },
+      {
+        "filename": "2.jpg",
+        "url": "https://i.ibb.co/TMf6f42s/2.jpg"
+      },
+      {
+        "filename": "3.jpg",
+        "url": "https://i.ibb.co/77KZRzn/3.jpg"
+      },
+      {
+        "filename": "4.jpg",
+        "url": "https://i.ibb.co/4gKzBHcC/4.jpg"
+      },
+      {
+        "filename": "5.jpg",
+        "url": "https://i.ibb.co/gbxGwb5d/5.jpg"
+      },
+      {
+        "filename": "6.jpg",
+        "url": "https://i.ibb.co/QFKrh9v5/6.jpg"
+      },
+      {
+        "filename": "7.jpg",
+        "url": "https://i.ibb.co/nsXLnjQK/7.jpg"
+      },
+      {
+        "filename": "s4.JPEG",
+        "url": "https://i.ibb.co/FFgRkYk/s4.jpg"
+      },
+      {
   }
 ]
