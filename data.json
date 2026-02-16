@@ -1,61 +1,5 @@
 [
   {
-    "id": "id63",
-    "title": "MacBook Air 13\" M2 512 SSD 8 RAM",
-    "active": 0,
-    "others": {
-      "popis": "Prodám MacBook Air 13 M2\" (model 2022 koupený koncem 2023) ve skvělém stavu (je jako nový), který byl jen na stole a nemá žádné škábance.\n\nNotebook je osazen 8 GB RAM a rychlým 512 GB SSD diskem – ideální na práci, studium i běžné používání.\n\nRetina displej s krásným obrazem\nRychlý chod díky M2 procesoru (o 1/3 rychleší než M1)\nBaterie má jen 255 cyklů a je v perfektním stavu 87%\n Macbook vždy nošen v obalu a je bez škrábanců!!\n\nPřidám nabíječku\n\n Možnost odzkoušení a vrácení po dohodě. Předánní možné od Andělu na západ (Stodůlky, Košíře, Zličín) jinak dle dohody",
-      "cena": "15500",
-      "folder_path": "images/id63/",
-      "category": "10",
-      "rubrika": "pc",
-      "phone": "608645017",
-      "name": "Honza",
-      "location": "15000",
-      "sleva": 0,
-      "group": 1,
-      "email": "grosenthalg@gmail.com"
-    },
-    "img_urls": [
-      {
-        "filename": "768C55A8-F801-40C5-9FDC-0AEBBFFC1220_1_105_c.jpg",
-        "url": "https://i.ibb.co/1fQDzjj2/768-C55-A8-F801-40-C5-9-FDC-0-AEBBFFC1220-1-105-c.jpg"
-      },
-      {
-        "filename": "4F61D315-5DC5-4D99-9AE2-28DBE6B58661_1_105_c.jpg",
-        "url": "https://i.ibb.co/BVWrdCKh/4-F61-D315-5-DC5-4-D99-9-AE2-28-DBE6-B58661-1-105-c.jpg"
-      },
-      {
-        "filename": "6257C7A4-407F-4BBA-B70A-EA1D18A119E5_1_105_c.jpg",
-        "url": "https://i.ibb.co/9Hs5x7P4/6257-C7-A4-407-F-4-BBA-B70-A-EA1-D18-A119-E5-1-105-c.jpg"
-      },
-      {
-        "filename": "C3E57484-BC21-413D-B7A5-42626AB5443C_1_105_c.jpg",
-        "url": "https://i.ibb.co/Kzh9h4DR/C3-E57484-BC21-413-D-B7-A5-42626-AB5443-C-1-105-c.jpg"
-      },
-      {
-        "filename": "8B13DB52-228D-4CA7-9655-4F7C1BF4C541_1_105_c.jpg",
-        "url": "https://i.ibb.co/VWQ92204/8-B13-DB52-228-D-4-CA7-9655-4-F7-C1-BF4-C541-1-105-c.jpg"
-      },
-      {
-        "filename": "4.jpg",
-        "url": "https://i.ibb.co/mV0BS6gd/4.jpg"
-      },
-      {
-        "filename": "5B6AC13D-062A-47B5-93A4-8A9EFA36DC9D_1_105_c.jpg",
-        "url": "https://i.ibb.co/LK7drcw/5-B6-AC13-D-062-A-47-B5-93-A4-8-A9-EFA36-DC9-D-1-105-c.jpg"
-      },
-      {
-        "filename": "2.jpg",
-        "url": "https://i.ibb.co/hxK8RCFj/2.jpg"
-      },
-      {
-        "filename": "3.jpg",
-        "url": "https://i.ibb.co/dsx5C5BG/3.jpg"
-      }
-    ]
-  },
-  {
     "id": "id61",
     "title": "MacBook Air 13\" M1 8 GB RAM | 256 SSD",
     "active": 1,
@@ -120,12 +64,10 @@
       {
         "filename": "1_1.jpg",
         "url": "https://i.ibb.co/CpyrPTX3/1-2.jpg"
-
       },
       {
         "filename": "1_1_1.jpg",
         "url": "https://i.ibb.co/8LdtT3Ls/1-4.jpg"
-
       },
       {
         "filename": "1.jpg",
