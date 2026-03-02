@@ -110,5 +110,49 @@
         "url": "https://i.ibb.co/20Ty8Svv/s7.jpg"
       }
     ]
-  }
+  },
+  {
+    "id": "id68",
+    "title": "MacBook Air 13\" M1 8 GB RAM | 256 SSD | TOP stav",
+    "active": 1,
+    "others": {
+      "popis": "Prodám MacBook Air 13\" M1 - Zlatý v TOP stavu viz foto\nJedná se o model Air 2020 v provozu od 2023 ve výborném stavu.\n\nMacbook je osazen 8 GB RAM a rychlým 256 GB SSD diskem – dostačující na všechnu běžnou práci a studium.\nRychlý chod díky Apple M1 procesoru \nBaterie je ve výborném stavu s 98% a 21 cyklů, vydrží cca.14hod\n\nPřidám orig. nabíječku\n\nMožnost odzkoušení a předánní v Praze (Florenc, Stodůlky, Košíře, Zličín a dle dohody)",
+      "cena": "10900",
+      "folder_path": "images/id68/",
+      "category": "10",
+      "rubrika": "pc",
+      "phone": "608645017",
+      "name": "Honza",
+      "location": "15000",
+      "sleva": 0,
+      "group": 1,
+      "email": "grosenthalg@gmail.com"
+    },
+    "img_urls": [
+    ]
+  },
+   {
+    "id": "id69",
+    "title": "MacBook Air 13\" M1 8 GB RAM | 256 SSD | TOP stav",
+    "active": 1,
+    "others": {
+      "popis": "Prodám MacBook Air 13\" M1 v TOP stavu viz foto\nJedná se o model Air 2020 v provozu od 2023 ve výborném stavu.\n\nMacbook je osazen 8 GB RAM a rychlým 256 GB SSD diskem – dostačující na všechnu běžnou práci a studium.\nRychlý chod díky Apple M1 procesoru \nBaterie je ve výborném stavu s 96% a 165 cyklů, vydrží cca.14hod\n\nPřidám orig. nabíječku\n\nMožnost odzkoušení a předánní v Praze (Florenc, Stodůlky, Košíře, Zličín a dle dohody)",
+      "cena": "10900",
+      "folder_path": "images/id69/",
+      "category": "10",
+      "rubrika": "pc",
+      "phone": "608645017",
+      "name": "Honza",
+      "location": "15000",
+      "sleva": 0,
+      "group": 1,
+      "email": "grosenthalg@gmail.com"
+    },
+    "img_urls": [
+      {
+        "filename": "1.jpg",
+        "url": "https://i.ibb.co/CpyrPTX3/1-2.jpg"
+      }
+    ]
+  }  
 ]
