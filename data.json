@@ -319,26 +319,64 @@
       }
     ]
   },
-  
-{
-  "id": "id71",
-  "title": "MacBook PRO 16\" M1 | 16 GB RAM | 1 TB SSD",
-  "active": 1,
-  "others": {
-    "popis": "Prodám MacBook PRO 16\" s procesorem Apple M1.\n\nModel PRO 2021, velmi pěkný a plně funkční stav.\n\nNotebook je osazen 16 GB RAM a 1 TB SSD – ideální na práci, studium i náročnější úlohy (vývoj, grafika, multitasking).\\nVelmi svižný chod díky Apple M1 procesoru.\n\nBaterie má 137 cyklů a kondici 93 %, reálná výdrž cca 10–12 hodin dle zátěže.\n\nNotebook má drobný kosmetický ťukanec na šasi (nemá vliv na funkčnost). Displej je v top stavu, bez vad či škrábanců.\n\nOriginální balení + nabíječka.\n\nMožnost osobního vyzkoušení a předání v Praze.",
-    "cena": "17500",
-    "folder_path": "images/id71/",
-    "category": "10",
-    "rubrika": "pc",
-    "phone": "608645017",
-    "name": "Honza",
-    "location": "15000",
-    "sleva": 0,
-    "group": 1,
-    "email": "post_rosenthal@post.cz"
-  },
-  "img_urls": [
-  ]
-}
-
+  {
+    "id": "id71",
+    "title": "MacBook PRO 16\" M1 | 16 GB RAM | 1 TB SSD",
+    "active": 1,
+    "others": {
+      "popis": "Prodám MacBook PRO 16\" s procesorem Apple M1.\n\nModel PRO 2021, velmi pěkný a plně funkční stav.\n\nNotebook je osazen 16 GB RAM a 1 TB SSD – ideální na práci, studium i náročnější úlohy (vývoj, grafika, multitasking).\\nVelmi svižný chod díky Apple M1 procesoru.\n\nBaterie má 137 cyklů a kondici 93 %, reálná výdrž cca 10–12 hodin dle zátěže.\n\nNotebook má drobný kosmetický ťukanec na šasi (nemá vliv na funkčnost). Displej je v top stavu, bez vad či škrábanců.\n\nOriginální balení + nabíječka.\n\nMožnost osobního vyzkoušení a předání v Praze.",
+      "cena": "17500",
+      "folder_path": "images/id71/",
+      "category": "10",
+      "rubrika": "pc",
+      "phone": "608645017",
+      "name": "Honza",
+      "location": "15000",
+      "sleva": 0,
+      "group": 1,
+      "email": "post_rosenthal@post.cz"
+    },
+    "img_urls": [
+      {
+        "filename": "4_1.jpg",
+        "url": "https://i.ibb.co/dwczJHM7/4-1.jpg"
+      },
+      {
+        "filename": "1.jpg",
+        "url": "https://i.ibb.co/sJd9bcgT/1.jpg"
+      },
+      {
+        "filename": "6_1.jpg",
+        "url": "https://i.ibb.co/79mwP2N/6-1.jpg"
+      },
+      {
+        "filename": "2.jpg",
+        "url": "https://i.ibb.co/8L2pMg2Y/2.jpg"
+      },
+      {
+        "filename": "3.jpg",
+        "url": "https://i.ibb.co/MDYZ4vbY/3.jpg"
+      },
+      {
+        "filename": "4.jpg",
+        "url": "https://i.ibb.co/F9MXZM1/4.jpg"
+      },
+      {
+        "filename": "8.jpg",
+        "url": "https://i.ibb.co/84GMBjyq/8.jpg"
+      },
+      {
+        "filename": "6.jpg",
+        "url": "https://i.ibb.co/JRGxXnbg/6.jpg"
+      },
+      {
+        "filename": "7.jpg",
+        "url": "https://i.ibb.co/4gMDNJCx/7.jpg"
+      },
+      {
+        "filename": "5.jpg",
+        "url": "https://i.ibb.co/dX1mtpt/5.jpg"
+      }
+    ]
+  }
 ]
