@@ -380,55 +380,24 @@
     ]
   },
   {
-    "id": "id15",
-    "title": "MacBook Air 13\" M1 16 RAM 256SSD !190 cyklů!",
-    "active": 0,
+    "id": "id72",
+    "title": "MacBook PRO 13\" M1 8 RAM 256SSD 80 cyklů",
+    "active": 1,
     "others": {
-      "popis": "Prodám MacBook Air 13 M1\" Ve stavu jako nový, nebyl používán! Žádný oděrky, jako nový, nemá na sobě nic!.\n\nNotebook je osazen 16 GB RAM a rychlým 512 GB SSD diskem – ideální na práci, studium i běžné používání.\n\nRetina displej s krásným obrazem\nRychlý chod díky M1 procesoru!\nBaterie má jen 190 cyklů a je v perfektním stavu 95%\nVždy nošen v obalu, bez škrábanců\n\nPřidám nabíječku\n\n Možnost odzkoušení a vrácení po dohodě. Předánní možné na Florenci nebo Andělu, jinak dle dohody.",
-      "cena": "10000",
-      "folder_path": "/home/mac/share/scripts/images/id15/",
+      "popis": "Prodám MacBook PRO 13 M1\" REPASOVANÝ s AIR displejem, který má už přes půl roku tři čáry přes displej. Koupil jsem ho takhle v USA\n\nNotebook je osazen 8 GB RAM a rychlým 256 GB SSD diskem – ideální na práci, studium i běžné používání.\n\nRychlý chod díky M1 procesoru!\nBaterie má jen 80 cyklů a je v perfektním stavu 98%\nVždy nošen v obalu, je téměř bez škrábanců\n\nPřidám nabíječku\n\n Možnost odzkoušení a vrácení po dohodě. Předánní možné na Florenci nebo Andělu, jinak dle dohody.",
+      "cena": "8000",
+      "folder_path": "/home/mac/share/scripts/images/id72/",
       "category": "10",
       "rubrika": "pc",
-      "phone": "720883202",
-      "name": "Jan",
+      "phone": "6086454017",
+      "name": "Rosenthal",
       "location": "15500",
       "sleva": 0,
       "group": 1,
-      "email": "rossi.istambul23@gmail.com"
+      "email": "grosenthalg@gmail.com"
     },
     "img_urls": [
-      {
-        "filename": "IMG_20250604_102952507_MFNR.jpg",
-        "url": "https://i.ibb.co/JR2frCWx/IMG-20250604-102952507-MFNR.jpg"
-      },
-      {
-        "filename": "6_sbazar.jpg",
-        "url": "https://i.ibb.co/0pHztrbR/6-sbazar.jpg"
-      },
-      {
-        "filename": "5_sbazar.jpg",
-        "url": "https://i.ibb.co/XZZch9kG/5-sbazar.jpg"
-      },
-      {
-        "filename": "4_sbazar.jpg",
-        "url": "https://i.ibb.co/pjZ4cNWw/4-sbazar.jpg"
-      },
-      {
-        "filename": "1.jpg",
-        "url": "https://i.ibb.co/1yq7mTs/1.jpg"
-      },
-      {
-        "filename": "2_sbazar.jpg",
-        "url": "https://i.ibb.co/TDG6z5Bz/2-sbazar.jpg"
-      },
-      {
-        "filename": "IMG_20250604_103004993_MFNR.jpg",
-        "url": "https://i.ibb.co/8gkDYtsH/IMG-20250604-103004993-MFNR.jpg"
-      },
-      {
-        "filename": "7_sbazar.jpg",
-        "url": "https://i.ibb.co/jvr8DBWh/7-sbazar.jpg"
-      }
+      
     ]
   }
 ]
