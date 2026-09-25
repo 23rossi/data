@@ -54,7 +54,7 @@
   {
     "id": "id39",
     "title": "Dětské / juniorské snowboardové boty Deeluxe - vel. EUR 39",
-    "active": 1,
+    "active": 0,
     "others": {
       "popis": "Prodám dětské/juniorské snowboardové boty značky Deeluxe s pohodlným utahováním BOA systémem a stahovacím páskem, velikost EUR 39 (Mondo Point 25.0)[cite: 39, 40, 43].\n\nBoty jsou v perfektním a velmi zachovalém stavu, plně funkční[cite: 38].\n\n Preferuji osobní odběr (Praha 5/6), možnost zaslání po domluvě.\nK dispozici ihned – možnost vyzkoušení, vrácení dle dohody.",
       "cena": "1000",
@@ -102,7 +102,7 @@
   {
     "id": "id40",
     "title": "Dívčí / Dámské snowboardové boty Westige - vel. EUR 37",
-    "active": 1,
+    "active": 0,
     "others": {
       "popis": "Prodám dámské nebo juniorské snowboardové boty značky Westige ve velikosti EUR 37 (US 6, Mondo Point 23.5).\n\n Boty jsou v krásném a velmi zachovalém stavu, plně funkční, skladované v bytě[cite: 31].\n\nPreferuji osobní odběr (Praha 5/6), možnost zaslání po domluvě.\nK dispozici ihned – možnost vyzkoušení, vrácení dle dohody.",
       "cena": "1200",
@@ -326,7 +326,7 @@
   {
     "id": "id44",
     "title": "Dětský snowboard Flow Rhythm 120 cm + vázání Flow",
-    "active": 1,
+    "active": 0,
     "others": {
       "popis": "Prodám dětský snowboard Flow Rhythm o délce 120 cm včetně kvalitního rychloupínacího vázání Flow Evolve.\n\nSnowboard je v dobrém stavu, plně funkční, vhodný pro začínající i pokročilejší malé jezdce :)\n\nPreferuji osobní odběr (Praha 5/6), možnost zaslání po domluvě.\nK dispozici ihned – možnost vyzkoušení, vrácení dle dohody.",
       "cena": "1200",
@@ -387,57 +387,24 @@
       }
     ]
   },
-  {
-    "id": "id45",
-    "title": "Dětské lyže Salomon 120 cm + vázání",
-    "active": 1,
-    "others": {
-      "popis": "Prodám dětské lyže Salomon X-Race JR o délce 120 cm + vázání \n\nLyže jsou v dobrém stavu a plně funkční, byly skladovány v bytě, vhodné pro malé lyžaře :)\n\n Preferuji osobní odběr (Praha 5/6), možnost zaslání po domluvě.\nK dispozici ihned – možnost vyzkoušení, vrácení dle dohody.",
-      "cena": "800",
-      "folder_path": "images/id45/",
-      "category": "260",
-      "rubrika": "sport",
-      "phone": "608645017",
-      "name": "Honza",
-      "location": "15000",
-      "sleva": 0,
-      "group": 2,
-      "email": "grosenthalg@gmail.com"
-    },
-    "img_urls": [
-      {
-        "filename": "20260924_081513.jpg",
-        "url": "https://i.ibb.co/0Hp2t7H/20260924-081513.jpg"
-      },
-      {
-        "filename": "20260924_081526.jpg",
-        "url": "https://i.ibb.co/PGjQjZm8/20260924-081526.jpg"
-      },
-      {
-        "filename": "20260924_081517.jpg",
-        "url": "https://i.ibb.co/d4CLd1Kk/20260924-081517.jpg"
-      },
-      {
-        "filename": "20260924_081555.jpg",
-        "url": "https://i.ibb.co/RGZS7tRL/20260924-081555.jpg"
-      },
-      {
-        "filename": "20260924_081504.jpg",
-        "url": "https://i.ibb.co/ZpL2763n/20260924-081504.jpg"
-      },
-      {
-        "filename": "20260924_081545.jpg",
-        "url": "https://i.ibb.co/NgYPy3pB/20260924-081545.jpg"
-      },
-      {
-        "filename": "20260924_081610.jpg",
-        "url": "https://i.ibb.co/Z6XY9zpT/20260924-081610.jpg"
-      },
-      {
-        "filename": "20260924_081531.jpg",
-        "url": "https://i.ibb.co/SDDX24YS/20260924-081531.jpg"
-      }
-    ]
+  "img_urls": []
+},
+{
+  "id": "id45",
+  "title": "Dětské lyže Salomon 120 cm + vázání",
+  "active": 1,
+  "others": {
+    "popis": "REZERVACE do 30.9 \n Prodám dětské lyže Salomon X-Race JR o délce 120 cm + vázání \n\nLyže jsou v dobrém stavu a plně funkční, byly skladovány v bytě, vhodné pro malé lyžaře :)\n\n Preferuji osobní odběr (Praha 5/6), možnost zaslání po domluvě.\nK dispozici ihned – možnost vyzkoušení, vrácení dle dohody.",
+    "cena": "800",
+    "folder_path": "images/id45/",
+    "category": "260",
+    "rubrika": "sport",
+    "phone": "608645017",
+    "name": "Honza",
+    "location": "15000",
+    "sleva": 0,
+    "group": 2,
+    "email": "grosenthalg@gmail.com"
   },
   {
     "id": "id61",
