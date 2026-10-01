@@ -404,7 +404,40 @@
       "group": 2,
       "email": "grosenthalg@gmail.com"
     },
-    "img_urls": []
+    "img_urls": [
+      {
+        "filename": "20260924_081513.jpg",
+        "url": "https://i.ibb.co/4ZMw2575/20260924-081513.jpg"
+      },
+      {
+        "filename": "20260924_081526.jpg",
+        "url": "https://i.ibb.co/M5NbQr8r/20260924-081526.jpg"
+      },
+      {
+        "filename": "20260924_081517.jpg",
+        "url": "https://i.ibb.co/jvZR8qYh/20260924-081517.jpg"
+      },
+      {
+        "filename": "20260924_081555.jpg",
+        "url": "https://i.ibb.co/0b4m51y/20260924-081555.jpg"
+      },
+      {
+        "filename": "20260924_081504.jpg",
+        "url": "https://i.ibb.co/3mLGtTSP/20260924-081504.jpg"
+      },
+      {
+        "filename": "20260924_081545.jpg",
+        "url": "https://i.ibb.co/ccz5gPmz/20260924-081545.jpg"
+      },
+      {
+        "filename": "20260924_081610.jpg",
+        "url": "https://i.ibb.co/BKBdbVFw/20260924-081610.jpg"
+      },
+      {
+        "filename": "20260924_081531.jpg",
+        "url": "https://i.ibb.co/ZzwSD8t4/20260924-081531.jpg"
+      }
+    ]
   },
   {
     "id": "id61",
