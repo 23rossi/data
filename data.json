@@ -387,9 +387,7 @@
       }
     ]
   },
-  "img_urls": []
-},
-{
+  {
   "id": "id45",
   "title": "Dětské lyže Salomon 120 cm + vázání",
   "active": 1,
@@ -405,6 +403,7 @@
     "sleva": 0,
     "group": 2,
     "email": "grosenthalg@gmail.com"
+   }
   },
   {
     "id": "id61",
