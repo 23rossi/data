@@ -388,22 +388,23 @@
     ]
   },
   {
-  "id": "id45",
-  "title": "Dětské lyže Salomon 120 cm + vázání",
-  "active": 1,
-  "others": {
-    "popis": "REZERVACE do 30.9 \n Prodám dětské lyže Salomon X-Race JR o délce 120 cm + vázání \n\nLyže jsou v dobrém stavu a plně funkční, byly skladovány v bytě, vhodné pro malé lyžaře :)\n\n Preferuji osobní odběr (Praha 5/6), možnost zaslání po domluvě.\nK dispozici ihned – možnost vyzkoušení, vrácení dle dohody.",
-    "cena": "800",
-    "folder_path": "images/id45/",
-    "category": "260",
-    "rubrika": "sport",
-    "phone": "608645017",
-    "name": "Honza",
-    "location": "15000",
-    "sleva": 0,
-    "group": 2,
-    "email": "grosenthalg@gmail.com"
-   }
+    "id": "id45",
+    "title": "Dětské lyže Salomon 120 cm + vázání",
+    "active": 1,
+    "others": {
+      "popis": "REZERVACE do 30.9 \n Prodám dětské lyže Salomon X-Race JR o délce 120 cm + vázání \n\nLyže jsou v dobrém stavu a plně funkční, byly skladovány v bytě, vhodné pro malé lyžaře :)\n\n Preferuji osobní odběr (Praha 5/6), možnost zaslání po domluvě.\nK dispozici ihned – možnost vyzkoušení, vrácení dle dohody.",
+      "cena": "800",
+      "folder_path": "images/id45/",
+      "category": "260",
+      "rubrika": "sport",
+      "phone": "608645017",
+      "name": "Honza",
+      "location": "15000",
+      "sleva": 0,
+      "group": 2,
+      "email": "grosenthalg@gmail.com"
+    },
+    "img_urls": []
   },
   {
     "id": "id61",
